@@ -8,6 +8,8 @@ import dis
 import builtins
 from tkinter import *
 
+# Forgive the spaggehti code, I write much better python nowadays
+
 class mother(object):
     def __init__(self):
         self.isDeprecated = False
